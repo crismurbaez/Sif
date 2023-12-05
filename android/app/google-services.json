@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "595586859924",
+    "project_id": "sif-1-e621a",
+    "storage_bucket": "sif-1-e621a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595586859924:android:b484f6f1e97fe0fd7a0581",
+        "android_client_info": {
+          "package_name": "com.example.sif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595586859924-13o8493aktsukgltgkdvitribpmc70ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQqIuljd2nHT_fz-7SKzAL4wpJH20s6Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595586859924-13o8493aktsukgltgkdvitribpmc70ht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595586859924-1qa8aafne1bn8kpt0hr4o0e6uvvc3c15.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sif"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
